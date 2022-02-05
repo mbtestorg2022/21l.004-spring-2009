@@ -18,15 +18,153 @@ Strunk, William, and E. B. White. _Elements of Style_. New York, NY: Penguin, 20
 
 Hacker, Diana. _A Writer's Reference_. 6th ed. New York, NY: Bedford/St. Martin's, 2009. ISBN: 9780312593322.
 
-| WEEK # | READINGS |
-| --- | --- |
-| 1 | Yeats, W. B. _To A Young Girl, When You Are Old, To Ireland In The Coming Times, The Song of Wandering Aengus, The Second Coming, Easter 1916, Never Give All The Heart._ ([PDF]({{< baseurl >}}/resources/mit21l_004s09_read01_yeats)) |
-| 3 |  {{< br >}}{{< br >}} Poetry animations. "Yeats, W. B. "The Lake Isle of Innisfree." Poem movie animation." April 18, 2008. YouTube. Accessed July 9, 2009. [http://www.youtube.com/watch?v=VUfuG8ZaAzc](http://www.youtube.com/watch?v=VUfuG8ZaAzc{{< br >}}            ) {{< br >}}{{< br >}}  |
-| 4 | Stevens, Wallace. [_The House Was Quiet And The World Was Calm_](http://www.poemhunter.com/poem/the-house-was-quiet-and-the-world-was-calm/). |
-| 5 |  {{< br >}}{{< br >}} Rich, Adrienne. "Mother-in-Law." \[HV\] {{< br >}}{{< br >}} Hopkins, Gerard Manley. "[Pied Beauty](http://www.poets.org/viewmedia.php/prmMID/15840)." \[HV\] {{< br >}}{{< br >}} Chapter 3. "Poems as Pleasures." \[HV\] {{< br >}}{{< br >}}  |
-| 6 |  {{< br >}}{{< br >}} Donne, John. "[Holy Sonnet 14](http://www.poets.org/viewmedia.php/prmMID/20308)." \[HV\] {{< br >}}{{< br >}} ———. "[Holy Sonnet 10](http://www.poets.org/viewmedia.php/prmMID/15836)." \[HV\] {{< br >}}{{< br >}} Stevens, Wallace. [_The House Was Quiet And The World Was Calm_](http://www.poemhunter.com/poem/the-house-was-quiet-and-the-world-was-calm/). (cont.) {{< br >}}{{< br >}} Hopkins, Gerard Manley. [_As Kingfishers Catch Fire, Dragonflies Draw Flame_](http://www.poets.org/viewmedia.php/prmMID/20757). \[Includes poem text and audio\] {{< br >}}{{< br >}} Keats, John. "Letter on Negative Capability, 1818" ([PDF]({{< baseurl >}}/resources/mit21l_004s09_read02_keats)) {{< br >}}{{< br >}} Chapter 6. "Constructing A Self." \[HV\] {{< br >}}{{< br >}} Whitman, Walt. _Beginning My Studies_. ([PDF]({{< baseurl >}}/resources/mit21l_004s09_read03_whitman)) {{< br >}}{{< br >}} ———. [_Song of Myself_](http://www.poets.org/viewmedia.php/prmMID/15755). {{< br >}}{{< br >}}  |
-| 7 | Coleman, Wanda. "Wanda Why Aren't You Dead." In _Heavy Daughter Blues: Poems and Stories, 1968-1986_. Boston, MA: Black Sparrow Press, 1987. ISBN: 9780876857014. |
-| 8 |  {{< br >}}{{< br >}} Whitman, Walt. "[Vigil Strange I Kept on the Field One Night](http://www.poemhunter.com/poem/vigil-strange-i-kept-on-the-field-one-night/)." \[HV\] {{< br >}}{{< br >}} Eliot, T. S. "[The Love Song of J. Alfred Prufrock](http://www.poets.org/viewmedia.php/prmMID/20220)." \[HV\] {{< br >}}{{< br >}} Bishop, Elizabeth. "[At the Fishhouses](http://www.poets.org/viewmedia.php/prmMID/15209)." \[HV\] {{< br >}}{{< br >}} ———. "[One Art](http://www.poets.org/viewmedia.php/prmMID/15212)." \[HV\] {{< br >}}{{< br >}} ———. "[In the Waiting Room](http://www.poets.org/viewmedia.php/prmMID/15211)." New York, NY: Library of America, 2008. ISBN: 9781598530179. \[HV\] {{< br >}}{{< br >}} ———. "[Sestina](http://www.poemhunter.com/poem/sestina/)." \[HV\] {{< br >}}{{< br >}}  |
-| 9 | Eliot, T. S. "[The Love Song of J. Alfred Prufrock](http://www.poets.org/viewmedia.php/prmMID/20220)." (cont.) \[HV\] |
-| 10 | Eliot, T. S. "Tradition and the Individual Talent." In _The Sacred Wood: Essays on Poetry and Criticism_. Stonesfield, UK: Dodo Press, 2009. ISBN: 9781409961703. |
-| 12 | Wallace Stevens journal note ([PDF]({{< baseurl >}}/resources/mit21l_004s09_read04_stevens))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Yeats, W. B. _To A Young Girl, When You Are Old, To Ireland In The Coming Times, The Song of Wandering Aengus, The Second Coming, Easter 1916, Never Give All The Heart._ ([PDF]({{< baseurl >}}/resources/mit21l_004s09_read01_yeats))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Poetry animations. "Yeats, W. B. "The Lake Isle of Innisfree." Poem movie animation." April 18, 2008. YouTube. Accessed July 9, 2009. [http://www.youtube.com/watch?v=VUfuG8ZaAzc](http://www.youtube.com/watch?v=VUfuG8ZaAzc
+            )
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Stevens, Wallace. [_The House Was Quiet And The World Was Calm_](http://www.poemhunter.com/poem/the-house-was-quiet-and-the-world-was-calm/).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Rich, Adrienne. "Mother-in-Law." \[HV\]
+
+Hopkins, Gerard Manley. "[Pied Beauty](http://www.poets.org/viewmedia.php/prmMID/15840)." \[HV\]
+
+Chapter 3. "Poems as Pleasures." \[HV\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Donne, John. "[Holy Sonnet 14](http://www.poets.org/viewmedia.php/prmMID/20308)." \[HV\]
+
+———. "[Holy Sonnet 10](http://www.poets.org/viewmedia.php/prmMID/15836)." \[HV\]
+
+Stevens, Wallace. [_The House Was Quiet And The World Was Calm_](http://www.poemhunter.com/poem/the-house-was-quiet-and-the-world-was-calm/). (cont.)
+
+Hopkins, Gerard Manley. [_As Kingfishers Catch Fire, Dragonflies Draw Flame_](http://www.poets.org/viewmedia.php/prmMID/20757). \[Includes poem text and audio\]
+
+Keats, John. "Letter on Negative Capability, 1818" ([PDF]({{< baseurl >}}/resources/mit21l_004s09_read02_keats))
+
+Chapter 6. "Constructing A Self." \[HV\]
+
+Whitman, Walt. _Beginning My Studies_. ([PDF]({{< baseurl >}}/resources/mit21l_004s09_read03_whitman))
+
+———. [_Song of Myself_](http://www.poets.org/viewmedia.php/prmMID/15755).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Coleman, Wanda. "Wanda Why Aren't You Dead." In _Heavy Daughter Blues: Poems and Stories, 1968-1986_. Boston, MA: Black Sparrow Press, 1987. ISBN: 9780876857014.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Whitman, Walt. "[Vigil Strange I Kept on the Field One Night](http://www.poemhunter.com/poem/vigil-strange-i-kept-on-the-field-one-night/)." \[HV\]
+
+Eliot, T. S. "[The Love Song of J. Alfred Prufrock](http://www.poets.org/viewmedia.php/prmMID/20220)." \[HV\]
+
+Bishop, Elizabeth. "[At the Fishhouses](http://www.poets.org/viewmedia.php/prmMID/15209)." \[HV\]
+
+———. "[One Art](http://www.poets.org/viewmedia.php/prmMID/15212)." \[HV\]
+
+———. "[In the Waiting Room](http://www.poets.org/viewmedia.php/prmMID/15211)." New York, NY: Library of America, 2008. ISBN: 9781598530179. \[HV\]
+
+———. "[Sestina](http://www.poemhunter.com/poem/sestina/)." \[HV\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Eliot, T. S. "[The Love Song of J. Alfred Prufrock](http://www.poets.org/viewmedia.php/prmMID/20220)." (cont.) \[HV\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Eliot, T. S. "Tradition and the Individual Talent." In _The Sacred Wood: Essays on Poetry and Criticism_. Stonesfield, UK: Dodo Press, 2009. ISBN: 9781409961703.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Wallace Stevens journal note ([PDF]({{< baseurl >}}/resources/mit21l_004s09_read04_stevens))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

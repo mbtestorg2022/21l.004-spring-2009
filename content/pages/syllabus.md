@@ -40,10 +40,39 @@ _"Use the dictionary. It's better than the critics."_
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Oral work | 20% |
-| Written work | 80% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral work
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written work
+{{< tdclose >}}
+{{< tdopen >}}
+80%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Required Texts
 --------------
@@ -85,18 +114,287 @@ Plagiarism—use of another's intellectual work without acknowledgement—is a s
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introductions {{< br >}}{{< br >}} Discussion of list of poets for presentation {{< br >}}{{< br >}} Assignment for Week #2 handed out {{< br >}}{{< br >}} Yeats, W. B. "To A Young Girl." {{< br >}}{{< br >}} ———. "When You Are Old." {{< br >}}{{< br >}} ———. "To Ireland In The Coming Times." {{< br >}}{{< br >}} ———. "The Song of Wandering Aengus." {{< br >}}{{< br >}} ———. "The Second Coming." {{< br >}}{{< br >}} ———. "Easter 1916." {{< br >}}{{< br >}} ———. "Never Give All The Heart." {{< br >}}{{< br >}}  | &nbsp; |
-| 2 | Recite 10 lines of a poem by either Dickens, Yeats, Blake |  {{< br >}}{{< br >}} Wordsworth observations due in Week #3 {{< br >}}{{< br >}} Assignment due {{< br >}}{{< br >}}  |
-| 3 | Yeats, W. B. "_The Lake Isle of Innisfree_." |  {{< br >}}{{< br >}} Background on sonnets assignment due {{< br >}}{{< br >}} Readings assignment due {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Stevens, Wallace. "The House Was Quiet And The World Was Calm." {{< br >}}{{< br >}} Short quiz in class {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Paper 1 due {{< br >}}{{< br >}} Readings assignment due {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} Adrienne Rich. "Mother-in-law." {{< br >}}{{< br >}} Hopkins, Gerard Manley. "Pied Beauty." {{< br >}}{{< br >}} Chapter 3. "Poems as Pleasures." In _Poems, Poets, Poetry: An Introduction and Anthology_. {{< br >}}{{< br >}}  | &nbsp; |
-| 6 |  {{< br >}}{{< br >}} Donne, John. "Holy Sonnet 14." {{< br >}}{{< br >}} ———. "Holy Sonnet 10." {{< br >}}{{< br >}} Stevens, Wallace. "The House Was Quiet And The World Was Calm." (cont.) {{< br >}}{{< br >}} Hopkins, Gerard Manley. "As Kingfishers Catch Fire, Dragonflies Draw Flame." {{< br >}}{{< br >}} Keats, John. "Letter on Negative Capability, 1818." {{< br >}}{{< br >}} Chapter 6. "Constructing A Self." In _Poems, Poets, Poetry: An Introduction and Anthology_. {{< br >}}{{< br >}} Whitman, Walt. "Beginning My Studies." {{< br >}}{{< br >}} ———. "Song of Myself." {{< br >}}{{< br >}}  | Paper 2 due |
-| 7 | Coleman, Wanda. "Wanda Why Aren't You Dead." | &nbsp; |
-| 8 |  {{< br >}}{{< br >}} Whitman, Walt. "Vigil Strange I Kept on the Field One Night." {{< br >}}{{< br >}} Eliot, T. S. "The Love Song of J. Alfred Prufrock." {{< br >}}{{< br >}} Bishop, Elizabeth. "At the Fishhouses." {{< br >}}{{< br >}} ———. "One Art." {{< br >}}{{< br >}} ———. "In the Waiting Room." {{< br >}}{{< br >}} Vendler, Helen. "Sestina." {{< br >}}{{< br >}}  | &nbsp; |
-| 9 | Eliot, T. S. "The Love Song of J. Alfred Prufrock." (cont.) | &nbsp; |
-| 10 | Eliot, T. S. "Tradition and the Individual Talent." | &nbsp; |
-| 11 | Recite 15-25 lines of your choosing | Paper 3 due |
-| 12 |  {{< br >}}{{< br >}} Writing workshop {{< br >}}{{< br >}} Wallace Stevens journal note {{< br >}}{{< br >}} Bishop on Darwin {{< br >}}{{< br >}}  | &nbsp; |
-| 13 |  {{< br >}}{{< br >}} Last class {{< br >}}{{< br >}} Bring the original graded paper that you are revising. {{< br >}}{{< br >}} Bring a printed copy of "In the Waiting Room" and the Vendler anthology. {{< br >}}{{< br >}} Come prepared to discuss Bishop's "At the Fishhouses." {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Paper 4 due {{< br >}}{{< br >}} Paper 4 revision assignment due {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introductions
+
+Discussion of list of poets for presentation
+
+Assignment for Week #2 handed out
+
+Yeats, W. B. "To A Young Girl."
+
+———. "When You Are Old."
+
+———. "To Ireland In The Coming Times."
+
+———. "The Song of Wandering Aengus."
+
+———. "The Second Coming."
+
+———. "Easter 1916."
+
+———. "Never Give All The Heart."
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Recite 10 lines of a poem by either Dickens, Yeats, Blake
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Wordsworth observations due in Week #3
+
+Assignment due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Yeats, W. B. "_The Lake Isle of Innisfree_."
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Background on sonnets assignment due
+
+Readings assignment due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Stevens, Wallace. "The House Was Quiet And The World Was Calm."
+
+Short quiz in class
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Paper 1 due
+
+Readings assignment due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Adrienne Rich. "Mother-in-law."
+
+Hopkins, Gerard Manley. "Pied Beauty."
+
+Chapter 3. "Poems as Pleasures." In _Poems, Poets, Poetry: An Introduction and Anthology_.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Donne, John. "Holy Sonnet 14."
+
+———. "Holy Sonnet 10."
+
+Stevens, Wallace. "The House Was Quiet And The World Was Calm." (cont.)
+
+Hopkins, Gerard Manley. "As Kingfishers Catch Fire, Dragonflies Draw Flame."
+
+Keats, John. "Letter on Negative Capability, 1818."
+
+Chapter 6. "Constructing A Self." In _Poems, Poets, Poetry: An Introduction and Anthology_.
+
+Whitman, Walt. "Beginning My Studies."
+
+———. "Song of Myself."
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Coleman, Wanda. "Wanda Why Aren't You Dead."
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Whitman, Walt. "Vigil Strange I Kept on the Field One Night."
+
+Eliot, T. S. "The Love Song of J. Alfred Prufrock."
+
+Bishop, Elizabeth. "At the Fishhouses."
+
+———. "One Art."
+
+———. "In the Waiting Room."
+
+Vendler, Helen. "Sestina."
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Eliot, T. S. "The Love Song of J. Alfred Prufrock." (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Eliot, T. S. "Tradition and the Individual Talent."
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Recite 15-25 lines of your choosing
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Writing workshop
+
+Wallace Stevens journal note
+
+Bishop on Darwin
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Last class
+
+Bring the original graded paper that you are revising.
+
+Bring a printed copy of "In the Waiting Room" and the Vendler anthology.
+
+Come prepared to discuss Bishop's "At the Fishhouses."
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Paper 4 due
+
+Paper 4 revision assignment due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

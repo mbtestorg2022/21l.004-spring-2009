@@ -6,6 +6,7 @@ description: 'Poems written by W. B. Yeats presented as a reading assignment for
   All The Heart.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21l-004-reading-poetry-spring-2009/51b0fc94998de3b722f48ed2209b34b8_MIT21l004s09read01yeats.pdf
 file_type: application/pdf
+parent_uid: d440e948-7d65-1f5b-bb3a-7b61c145d962
 resourcetype: Document
 title: Poems by Yeats
 uid: 51b0fc94-998d-e3b7-22f4-8ed2209b34b8
